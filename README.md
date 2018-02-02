@@ -1,2 +1,2 @@
 # ConvertTimeApp
-Convert time between different timezone with friendly user interface
+An android app that convert time between different timezone with a appealing user interface
